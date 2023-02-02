@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Image text](https://github.com/ifdotcom/ifdotcom/blob/main/ilustraci%C3%B3n-if%404x.png)
-<img align="right" width="400" height="200" src="https://github.com/ifdotcom/ifdotcom/blob/main/ilustraci%C3%B3n-if%404x.png">
+<img align="right" width="400" height="250" src="https://github.com/ifdotcom/ifdotcom/blob/main/ilustraci%C3%B3n-if%404x.png">
