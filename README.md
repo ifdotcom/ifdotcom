@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" width="400" height="400" src="https://github.com/ifdotcom/ifdotcom/blob/main/ilustraci%C3%B3n-if%404x.png">
+![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
+<img align="right" width="800" height="400" src="https://github.com/ifdotcom/ifdotcom/blob/main/ilustraci%C3%B3n-if%404x.png">
