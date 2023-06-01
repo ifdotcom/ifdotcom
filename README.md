@@ -3,7 +3,7 @@
  - sdssdnsknfksnkndgksnfkgmklsngfklsnm
  - kvnlskdnlvsd
  </p>
-<img align="right" width="450" height="240"  src="https://github.com/ifdotcom/ifdotcom/blob/main/ilustraci%C3%B3n-if%404x.png">
+<img align="right" width="350" height="210"  src="https://github.com/ifdotcom/ifdotcom/blob/main/ilustraci%C3%B3n-if%404x.png">
 
 
 ## 🌐 Socials:
