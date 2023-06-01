@@ -1,4 +1,4 @@
-![banner-if](https://github.com/ifdotcom/ifdotcom/blob/main/banner-if.jpg)
+![banner-if](https://github.com/ifdotcom/ifdotcom/blob/main/if.jpg)
 <p align="left" >
  - sdssdnsknfksnkndgksnfkgmklsngfklsnm
  - kvnlskdnlvsd
