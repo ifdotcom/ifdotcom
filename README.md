@@ -1,5 +1,6 @@
 ### Hi, I'm Fernanda Vidal 👋
 
+<img align="left" width="325" height="200"  src="https://github.com/ifdotcom/ifdotcom/blob/main/ilustraci%C3%B3n-if%404x.png">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,7 +11,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img align="rigth" width="300" height="130" src="https://github.com/ifdotcom/ifdotcom/blob/main/ilustraci%C3%B3n-if%404x.png">
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ifvidal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/if__developer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/if-vidal) 
