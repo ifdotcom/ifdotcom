@@ -1,9 +1,5 @@
 ### Hi, I'm Fernanda Vidal 👋
 
-<!--
-**ifdotcom/ifdotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,9 +9,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<img align="center" width="400" height="230" src="https://github.com/ifdotcom/ifdotcom/blob/main/ilustraci%C3%B3n-if%404x.png">
 
+<img align="rigth" width="400" height="230" src="https://github.com/ifdotcom/ifdotcom/blob/main/ilustraci%C3%B3n-if%404x.png">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ays4wwhnaeel27yszk34g43ekm&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ifvidal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/if__developer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/if-vidal) 
 
