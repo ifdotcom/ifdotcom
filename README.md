@@ -1,8 +1,8 @@
 ![banner-if](https://github.com/ifdotcom/ifdotcom/blob/main/banner-if.jpg)
-<p align="left" >
+<!-- <p align="left" >
  - sdssdnsknfksnkndgksnfkgmklsngfklsnm
  - kvnlskdnlvsd
- </p>
+ </p> -->
 
 
 
